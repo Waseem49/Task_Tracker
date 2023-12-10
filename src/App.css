@@ -1,0 +1,99 @@
+.task-tracker {
+  margin: 2rem auto;
+  padding: 2rem;
+  width: 50%;
+  max-height: 90dvh;
+  min-height: 50dvh;
+  border-radius: 1rem;
+  background-color: aliceblue;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+@media all and (min-width: 761px) and (max-width: 980px) {
+  .task-tracker {
+    width: 65%;
+    padding: 1.5rem;
+  }
+}
+@media all and (min-width: 300px) and (max-width: 760px) {
+  .task-tracker {
+    width: 75%;
+    padding: 1.2rem;
+  }
+}
+
+.task-tracker > div:nth-child(1) {
+  margin: 0.5rem 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.copyright {
+  margin: 1.5rem;
+  text-align: center;
+  font-size: 15px;
+}
+
+button {
+  padding: 0.3rem 0.7rem;
+  height: 2rem;
+  border-radius: 5px;
+  background-color: green;
+  color: white;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+form input {
+  width: 100%;
+  padding: 5px 0.5rem;
+  outline: none;
+  border: 2px solid grey;
+  font-size: 16px;
+}
+
+form input[type="checkbox"] {
+  width: 14px;
+}
+form input[type="submit"] {
+  background-color: black;
+  color: aliceblue;
+  font-size: 15px;
+}
+.reminder {
+  width: 100%;
+  height: 1.5rem;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  align-items: center;
+}
+.reminder > :nth-child(1) {
+}
+
+.tasklist {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  max-height: 180px;
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+}
+.task-each {
+  padding: 0.3rem 2rem;
+  border-radius: 1rem;
+  background-color: rgba(97, 130, 161, 0.462);
+  color: aliceblue;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-transform: uppercase;
+  font-style: italic;
+  font-weight: lighter;
+}
+
+span {
+  margin: 0 0 0 1.5rem;
+  font-style: normal;
+  cursor: pointer;
+}
