@@ -1,5 +1,5 @@
 <h1 align="center">Task Tracker</h1>
-<h3 align="center">Ombd'C is your ultimate destination for all things cinema. Dive into the world of movies, explore the latest releases, discover hidden gems, and stay up-to-date with your favorite actors and directors.</h3>
+<h3 align="center">Stay organized and on top of your tasks with our Task Tracker app! Effortlessly add tasks with due dates, ensuring you never miss a deadline. Seamlessly manage your to-do list, mark tasks as complete, and remove them when done.</h3>
 <br />
 <h2 align="center">🖥️ Tech Stack</h2>
 <p align="center">
@@ -18,18 +18,15 @@
 <p align="center">  
   <img src="https://img.shields.io/badge/Vercel-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
 </p>
-<h3 align="center"><a href="https://ombd-c-waseem49.vercel.app/" target="_blank"><strong>Want to see live preview »</strong></a></h3>
+<h3 align="center"><a href="https://task-tracker-waseem49.vercel.app/" target="_blank"><strong>Want to see live preview »</strong></a></h3>
 <br />
 <br />
-"Discover and organize your favorite movies with our OMDb app! Easily search for movies, explore detailed information, and add them to your personalized favorites list. Whether you're a movie enthusiast or looking for your next watch, our app lets you curate your collection. Seamlessly navigate your favorite movies in one place, making it a breeze to keep track of the films you love. Experience the joy of movie discovery and create your watchlist today!"
+"Stay organized and on top of your tasks with our Task Tracker app! Effortlessly add tasks with due dates, ensuring you never miss a deadline. Seamlessly manage your to-do list, mark tasks as complete, and remove them when done. This user-friendly app enhances your productivity by providing a simple yet effective way to keep track of your daily tasks. Experience the convenience of task management at your fingertips — create, complete, and conquer your to-do list with ease!"
 <br />
 <br />
 
-## 🚀 Page
-- Landing Page
-- Favorite-list & Movie-Details Page
 ## 🚀 User can Do
-- User can add a Movie to Favorite-list
+- User can add and delete tsak✅✅
 <br />
 <br />
 <h1 align="center"> 🏷️ Landing Page or Home Page </h1>
@@ -45,7 +42,7 @@
 <br />
 <br />
 <h2 >Contact</h2>   
-If you want to contact me, you can reach me through below handles. 
+You can reach me through the below handles if you want to contact me. 
 <br />
    
 [![linkedin](https://img.shields.io/badge/Md_Waseem_Akram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waseem49/)
